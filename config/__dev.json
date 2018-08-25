@@ -1,0 +1,9 @@
+{
+    "listen_port":      8877,
+    "http_port":        8866,
+    "log_file":         "/home/yeshiquan/data-platform/goproxy/goproxy_dev.log",
+    "conn_pool_size":   4000,
+    "log_level":        "Debug",
+    "riak_pool_size":    1000,
+    "riak_address":     "10.58.176.20:8087"
+}
